@@ -201,7 +201,7 @@ function TablaMultiplicar(numero){
 let num = TablaMultiplicar(5);
 */
 
-
+/*
 let listaGenerica = [];
 
 let LenguajesDeProgramacion = ['JavaScript','C','C++','Kotlin','Python'];
@@ -283,3 +283,4 @@ function buscar(numero){
 let numero = 12;
 let pos = buscar(numero);
 console.log(`${pos == -1 ? 'No se encontro' : 'Se encontro el numero'} ${numero} ${pos != -1 ? 'en la posicion ' +pos : ''}`);
+*/
